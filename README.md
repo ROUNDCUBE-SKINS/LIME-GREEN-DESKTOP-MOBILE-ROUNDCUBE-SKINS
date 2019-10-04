@@ -9,7 +9,7 @@ Read the instruction to activate the RoundcubeSkins : [Instructions to Use](http
 
 ## Desktop View ##
 
-![Lime Green Desktop Roundcube Skins](images/lime_green_mail.png)
+![Lime Green Desktop Roundcube Skins](images/lime-green_mail.png)
 
 ---
 
